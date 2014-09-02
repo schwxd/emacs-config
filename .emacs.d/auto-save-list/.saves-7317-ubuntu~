@@ -1,0 +1,12 @@
+/home/xdwang/work/usb/kernel/drivers/usb/musb/musb_gadget.c
+/home/xdwang/work/usb/kernel/drivers/usb/musb/#musb_gadget.c#
+/home/xdwang/work/usb/kernel/drivers/usb/gadget/f_mass_storage.c
+/home/xdwang/work/usb/kernel/drivers/usb/gadget/#f_mass_storage.c#
+/home/xdwang/work/usb/kernel/include/linux/usb/gadget.h
+/home/xdwang/work/usb/kernel/include/linux/usb/#gadget.h#
+/home/xdwang/work/usb/kernel/drivers/usb/musb/musb_gadget.h
+/home/xdwang/work/usb/kernel/drivers/usb/musb/#musb_gadget.h#
+/home/xdwang/work/usb/kernel/drivers/usb/gadget/f_mass_storage_svn.c
+/home/xdwang/work/usb/kernel/drivers/usb/gadget/#f_mass_storage_svn.c#
+/home/xdwang/work/usb/kernel/TAGS
+/home/xdwang/work/usb/kernel/#TAGS#

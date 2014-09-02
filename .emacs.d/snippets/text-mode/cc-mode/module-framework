@@ -1,0 +1,15 @@
+#name: Linux module framework
+# --
+void __exit ${1:module}_exit(void)
+{
+
+}
+
+int __init ${1:module}_init(void)
+{
+	printk("${1:module} init @@@@\n");
+	return 0;
+}
+
+module_init(${1:module}_init);
+module_exit(${1:module}_exit);

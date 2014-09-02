@@ -1,0 +1,12 @@
+/home/xdwang/work/xboot/boot/usb/hsusb.c
+/home/xdwang/work/xboot/boot/usb/#hsusb.c#
+/home/xdwang/work/xboot/boot/nand/nand_boot.c
+/home/xdwang/work/xboot/boot/nand/#nand_boot.c#
+/home/xdwang/work/xboot/boot/common/boot_main.c
+/home/xdwang/work/xboot/boot/common/#boot_main.c#
+/home/xdwang/work/xboot/spl/nand/nand_boot_jz4760.c
+/home/xdwang/work/xboot/spl/nand/#nand_boot_jz4760.c#
+/home/xdwang/work/xboot/spl/nand/jz4760_nand.c
+/home/xdwang/work/xboot/spl/nand/#jz4760_nand.c#
+/home/xdwang/work/xboot/include/configs/pt701.h
+/home/xdwang/work/xboot/include/configs/#pt701.h#

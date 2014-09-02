@@ -1,0 +1,12 @@
+/home/xdwang/work/dhd_kernel_altair_1000/kernel/drivers/mmc/core/sdio.c
+/home/xdwang/work/dhd_kernel_altair_1000/kernel/drivers/mmc/core/#sdio.c#
+/home/xdwang/work/dhd_kernel_altair_1000/kernel/arch/mips/include/asm/errno.h
+/home/xdwang/work/dhd_kernel_altair_1000/kernel/arch/mips/include/asm/#errno.h#
+/home/xdwang/patch/kernel/drivers/mmc/core/core.c
+/home/xdwang/patch/kernel/drivers/mmc/core/#core.c#
+/home/xdwang/work/bcm_altair/kernel/arch/mips/include/asm/jzpm/jz_wm831x.h
+/home/xdwang/work/bcm_altair/kernel/arch/mips/include/asm/jzpm/#jz_wm831x.h#
+/home/xdwang/work/bcm_altair/kernel/arch/mips/jz4760/board-altair.c
+/home/xdwang/work/bcm_altair/kernel/arch/mips/jz4760/#board-altair.c#
+/home/xdwang/work/bcm_altair/kernel/drivers/mmc/host/jz_mmc/jz_mmc_main.c
+/home/xdwang/work/bcm_altair/kernel/drivers/mmc/host/jz_mmc/#jz_mmc_main.c#

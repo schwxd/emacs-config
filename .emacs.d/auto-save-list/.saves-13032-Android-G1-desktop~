@@ -1,0 +1,10 @@
+/home/xdwang/src/pt701new/bootable/recovery/recovery.c
+/home/xdwang/src/pt701new/bootable/recovery/#recovery.c#
+/home/xdwang/src/pt701new/bootable/recovery/mtdutils/mtdutils.c
+/home/xdwang/src/pt701new/bootable/recovery/mtdutils/#mtdutils.c#
+/source/android-2.0/kernel/drivers/mtd/mtdchar.c
+/source/android-2.0/kernel/drivers/mtd/#mtdchar.c#
+/source/android-2.0/kernel/include/asm-generic/errno-base.h
+/source/android-2.0/kernel/include/asm-generic/#errno-base.h#
+/home/xdwang/src/pt701new/bootable/recovery/bootloader.c
+/home/xdwang/src/pt701new/bootable/recovery/#bootloader.c#

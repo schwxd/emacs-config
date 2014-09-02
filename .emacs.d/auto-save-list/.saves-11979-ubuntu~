@@ -1,0 +1,14 @@
+/home/xdwang/work/usb/system/core/vold/ums.h
+/home/xdwang/work/usb/system/core/vold/#ums.h#
+/home/xdwang/work/usb/frameworks/base/core/java/com/android/internal/app/UsbStorageActivity.java
+/home/xdwang/work/usb/frameworks/base/core/java/com/android/internal/app/#UsbStorageActivity.java#
+/home/xdwang/work/usb/kernel/drivers/usb/musb/musb_gadget_ep0.c
+/home/xdwang/work/usb/kernel/drivers/usb/musb/#musb_gadget_ep0.c#
+/home/xdwang/work/usb/kernel/drivers/usb/musb/musb_gadget.c
+/home/xdwang/work/usb/kernel/drivers/usb/musb/#musb_gadget.c#
+/home/xdwang/work/usb/kernel/drivers/usb/musb/vbus_hotplug.c
+/home/xdwang/work/usb/kernel/drivers/usb/musb/#vbus_hotplug.c#
+/home/xdwang/work/usb/kernel/drivers/usb/musb/Makefile
+/home/xdwang/work/usb/kernel/drivers/usb/musb/#Makefile#
+/home/xdwang/work/usb/system/core/vold/cmd_dispatch.c
+/home/xdwang/work/usb/system/core/vold/#cmd_dispatch.c#

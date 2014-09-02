@@ -1,0 +1,7 @@
+#name: Define macro
+# --
+#define ${1:func_macro}(${2: })			\
+do {						\
+	$0					\
+						\
+} while (0)
